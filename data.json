@@ -1,7 +1,7 @@
 { 
  "AppUpdate": {
     "LatestVersionCode": 2,
-    "ForceUpdate": true
+    "ForceUpdate": false
   },
   "AppStart": false
 }
